@@ -5,10 +5,10 @@ This project includes two interactive dashboards designed for medical provider a
 
 ## 🎛️ Filters  
 Each dashboard includes dynamic filters for:  
-- **Years** 📆  
-- **Age Groups** 👶🧑‍🦳  
-- **Gender** 🚹🚺  
-- **Race** 🌎  
+- 📆**Years**  
+- 👶🧑‍🦳 **Age Groups** 
+- 🚹🚺**Gender** 
+- 🌎**Race**   
 
 ---
 

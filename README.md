@@ -3,6 +3,10 @@
 ## 📌 Overview  
 This project includes two interactive dashboards designed for medical provider analytics. Both dashboards support **light and dark modes** 🌗 and feature a **toggle button** for filters. Users can navigate between dashboards using dedicated buttons.  
 
+## 🔗 Live Demo  
+Check out the dashboard here: [Medical Provider Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTg5MTQ2NDYtOWYzNS00N2VkLTg5ZDAtZmNjMmExNjJkZmVkIiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D) 🚀  
+
+
 ## 🎛️ Filters  
 Each dashboard includes dynamic filters for:  
 - **Years**  

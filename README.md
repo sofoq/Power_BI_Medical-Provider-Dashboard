@@ -87,5 +87,16 @@ A tooltip from another page shows **total patients by diagnosis for each departm
 
 ---
 
+## 📸 Screenshots  
 
----
+### Overview Dashboard  
+![Overview](https://github.com/sofoq/Car-Sales-Project/blob/main/OVERVIEW.png)  
+
+### Details Dashboard  
+![Details](https://github.com/sofoq/Car-Sales-Project/blob/main/DETAILS.png)  
+
+
+
+Sofo Qaadze  
+📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)  
+🔗 [LinkedIn: Sofo Qaadze](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)

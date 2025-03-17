@@ -102,6 +102,7 @@ A tooltip from another page shows **total patients by diagnosis for each departm
 ![Providers](https://github.com/sofoq/Power_BI_Medical-Provider-Dashboard/blob/main/Providers_Dark.png)  
 
 
+
 Sofo Qaadze  
 📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)  
 🔗 [LinkedIn: Sofo Qaadze](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)

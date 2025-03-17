@@ -94,7 +94,7 @@ A tooltip from another page shows **total patients by diagnosis for each departm
 ![Overview](https://github.com/sofoq/Medical-Provider-Dashboard/blob/main/Overview_Dark.png)  
 
 ### Providers Dashboard  
-![Providers](https://github.com/sofoq/Medical-Provider-Dashboard/blob/main/Providers_Light.png)  
+![Providers](https://github.com/sofoq/Medical-Provider-Dashboard/blob/main/Provider_Light.png)  
 ![Providers](https://github.com/sofoq/Medical-Provider-Dashboard/blob/main/Providers_Dark.png)  
 
 

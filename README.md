@@ -90,11 +90,12 @@ A tooltip from another page shows **total patients by diagnosis for each departm
 ## 📸 Screenshots  
 
 ### Overview Dashboard  
-![Overview](https://github.com/sofoq/Car-Sales-Project/blob/main/OVERVIEW.png)  
+![Overview](https://github.com/sofoq/Medical-Provider-Dashboard/blob/main/Overview_Light.png)  
+![Overview](https://github.com/sofoq/Medical-Provider-Dashboard/blob/main/Overview_Dark.png)  
 
-### Details Dashboard  
-![Details](https://github.com/sofoq/Car-Sales-Project/blob/main/DETAILS.png)  
-
+### Providers Dashboard  
+![Providers](https://github.com/sofoq/Medical-Provider-Dashboard/blob/main/Providers_Light.png)  
+![Providers](https://github.com/sofoq/Medical-Provider-Dashboard/blob/main/Providers_Dark.png)  
 
 
 Sofo Qaadze  
